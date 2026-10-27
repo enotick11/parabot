@@ -1,0 +1,319 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PARAbot//Raspisanie SyktGU//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PARAbot · 841п-ХДо
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261027-3-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261027T094000Z
+DTEND:20261027T111000Z
+SUMMARY:Теория и методика преподавания миро
+ вой художественной культуры · лекция
+LOCATION:212/5
+DESCRIPTION:Преподаватель: Конова Ирина Генри
+ ховна\nПара 3 · 12:40–14:10\nPARAbot · расписание 
+ СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261027-4-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261027T112000Z
+DTEND:20261027T125000Z
+SUMMARY:Теория и методика преподавания миро
+ вой художественной культуры · практика
+LOCATION:212/5
+DESCRIPTION:Преподаватель: Конова Ирина Генри
+ ховна\nПара 4 · 14:20–15:50\nPARAbot · расписание 
+ СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261027-5-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261027T130000Z
+DTEND:20261027T143000Z
+SUMMARY:Русская культура · лекция
+LOCATION:212/5
+DESCRIPTION:Преподаватель: Волокитина Надежда
+  Александровна\nПара 5 · 16:00–17:30\nPARAbot · ра
+ списание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261027-6-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261027T144000Z
+DTEND:20261027T161000Z
+SUMMARY:Методика преподавания творческих ди
+ сциплин · практика
+LOCATION:222/5
+DESCRIPTION:Преподаватель: Русеева Наталия Ни
+ колаевна\nПара 6 · 17:40–19:10\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261028-1-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261028T053000Z
+DTEND:20261028T070000Z
+SUMMARY:Основы актерского мастерства · прак
+ тика
+LOCATION:212/5
+DESCRIPTION:Преподаватель: Смирнова Ангелина 
+ Ивановна\nПара 1 · 08:30–10:00\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261028-2-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261028T071000Z
+DTEND:20261028T084000Z
+SUMMARY:Основы режиссуры любительского (шко
+ льного) театра (л.) Морозова 25
+DESCRIPTION:Преподаватель: Напалков Виктор Ми
+ хайлович\nПара 2 · 10:10–11:40\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261028-3-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261028T094000Z
+DTEND:20261028T111000Z
+SUMMARY:Методика работы с исполнителями и ко
+ ллективами (л.) Морозова 25
+DESCRIPTION:Преподаватель: Напалков Виктор Ми
+ хайлович\nПара 3 · 12:40–14:10\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261028-4-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261028T112000Z
+DTEND:20261028T125000Z
+SUMMARY:Методика работы с исполнителями и ко
+ ллективами (пр.) Морозова 25
+DESCRIPTION:Преподаватель: Напалков Виктор Ми
+ хайлович\nПара 4 · 14:20–15:50\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261029-1-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261029T053000Z
+DTEND:20261029T070000Z
+SUMMARY:История культур и цивилизаций: Новей
+ шее время · лекция
+LOCATION:118/5
+DESCRIPTION:Преподаватель: Нечаева Марина Мак
+ симовна\nПара 1 · 08:30–10:00\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261029-2-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261029T071000Z
+DTEND:20261029T084000Z
+SUMMARY:Основы религиозных культур · практи
+ ка
+LOCATION:220/5
+DESCRIPTION:Преподаватель: Чупрова Елена Нико
+ лаевна\nПара 2 · 10:10–11:40\nPARAbot · расписание
+  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261029-3-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261029T094000Z
+DTEND:20261029T111000Z
+SUMMARY:Методика работы с исполнителями и ко
+ ллективами (л.) Морозова 25
+DESCRIPTION:Преподаватель: Напалков Виктор Ми
+ хайлович\nПара 3 · 12:40–14:10\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261029-4-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261029T112000Z
+DTEND:20261029T125000Z
+SUMMARY:Методика работы с исполнителями и ко
+ ллективами (пр.) Морозова 25
+DESCRIPTION:Преподаватель: Напалков Виктор Ми
+ хайлович\nПара 4 · 14:20–15:50\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261030-1-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261030T053000Z
+DTEND:20261030T070000Z
+SUMMARY:История мировой художественной куль
+ туры: XIХ - XХ вв · практика
+LOCATION:118/5
+DESCRIPTION:Преподаватель: Нечаева Марина Мак
+ симовна\nПара 1 · 08:30–10:00\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261030-2-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261030T071000Z
+DTEND:20261030T084000Z
+SUMMARY:История театра и драматургии · лекци
+ я
+LOCATION:118/5
+DESCRIPTION:Преподаватель: Нечаева Марина Мак
+ симовна\nПара 2 · 10:10–11:40\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261030-4-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261030T112000Z
+DTEND:20261030T125000Z
+SUMMARY:Учебная практика · практика
+LOCATION:120/5
+DESCRIPTION:Преподаватель: Эберт Елена Никола
+ евна\nПара 4 · 14:20–15:50\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261031-2-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261031T071000Z
+DTEND:20261031T084000Z
+SUMMARY:Основы актерского мастерства (пр.) Мо
+ розова 25
+DESCRIPTION:Преподаватель: Смирнова Ангелина 
+ Ивановна\nПара 2 · 10:10–11:40\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261102-3-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261102T094000Z
+DTEND:20261102T111000Z
+SUMMARY:История культур и цивилизаций: Новей
+ шее время · практика
+LOCATION:212/5
+DESCRIPTION:Преподаватель: Нечаева Марина Мак
+ симовна\nПара 3 · 12:40–14:10\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261103-4-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261103T112000Z
+DTEND:20261103T125000Z
+SUMMARY:Элективные дисциплины (модули) по фи
+ зической культуре и спорту (пр.) неизв.\, Ц
+ ентр ФК
+DESCRIPTION:Пара 4 · 14:20–15:50\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261103-5-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261103T130000Z
+DTEND:20261103T143000Z
+SUMMARY:Русская культура · практика
+LOCATION:212/5
+DESCRIPTION:Преподаватель: Волокитина Надежда
+  Александровна\nПара 5 · 16:00–17:30\nPARAbot · ра
+ списание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261103-6-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261103T144000Z
+DTEND:20261103T161000Z
+SUMMARY:Методика преподавания творческих ди
+ сциплин · лекция
+LOCATION:212/5
+DESCRIPTION:Преподаватель: Русеева Наталия Ни
+ колаевна\nПара 6 · 17:40–19:10\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261105-1-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261105T053000Z
+DTEND:20261105T070000Z
+SUMMARY:Теория и методика преподавания миро
+ вой художественной культуры · лекция
+LOCATION:120/5
+DESCRIPTION:Преподаватель: Конова Ирина Генри
+ ховна\nПара 1 · 08:30–10:00\nPARAbot · расписание 
+ СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261105-2-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261105T071000Z
+DTEND:20261105T084000Z
+SUMMARY:Теория и методика преподавания миро
+ вой художественной культуры · практика
+LOCATION:120/5
+DESCRIPTION:Преподаватель: Конова Ирина Генри
+ ховна\nПара 2 · 10:10–11:40\nPARAbot · расписание 
+ СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261105-3-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261105T094000Z
+DTEND:20261105T111000Z
+SUMMARY:Основы религиозных культур · лекция
+LOCATION:212/5
+DESCRIPTION:Преподаватель: Чупрова Елена Нико
+ лаевна\nПара 3 · 12:40–14:10\nPARAbot · расписание
+  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261105-4-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261105T112000Z
+DTEND:20261105T125000Z
+SUMMARY:Основы режиссуры любительского (шко
+ льного) театра (пр.) Морозова 25
+DESCRIPTION:Преподаватель: Напалков Виктор Ми
+ хайлович\nПара 4 · 14:20–15:50\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261106-1-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261106T053000Z
+DTEND:20261106T070000Z
+SUMMARY:История мировой художественной куль
+ туры: XIХ - XХ вв · лекция
+LOCATION:212/5
+DESCRIPTION:Преподаватель: Чупрова Елена Нико
+ лаевна\nПара 1 · 08:30–10:00\nPARAbot · расписание
+  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261106-2-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261106T071000Z
+DTEND:20261106T084000Z
+SUMMARY:История театра и драматургии · практ
+ ика
+LOCATION:212/5
+DESCRIPTION:Преподаватель: Нечаева Марина Мак
+ симовна\nПара 2 · 10:10–11:40\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:edfd421dff61b9c8-20261106-4-0-0@parabot
+DTSTAMP:20261027T091500Z
+DTSTART:20261106T112000Z
+DTEND:20261106T125000Z
+SUMMARY:Учебная практика · практика
+LOCATION:120/5
+DESCRIPTION:Преподаватель: Эберт Елена Никола
+ евна\nПара 4 · 14:20–15:50\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+END:VCALENDAR
