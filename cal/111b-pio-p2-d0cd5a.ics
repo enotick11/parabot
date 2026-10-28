@@ -6,29 +6,359 @@ METHOD:PUBLISH
 X-WR-CALNAME:PARAbot · 111б-ПИо · 2 п/г
 X-WR-TIMEZONE:Europe/Moscow
 BEGIN:VEVENT
-UID:d53563bc85cb84b6-20261031-x-0-0@parabot
-DTSTAMP:20261028T133300Z
-DTSTART:20261031T162000Z
-DTEND:20261031T175000Z
-SUMMARY:СГУ им. Питирима Сорокина О проекте С
- ервисы Библиотека Техподдержка © 2016-2026 Ф
- ГБОУ ВО "СГУ им. Питирима Сорокина". 167001\, 
- г. Сыктывкар\, Октябрьский пр-т\, 55. тел: +7 (
- 8212) 39-03-08.
-DESCRIPTION:Пара — · 19:20–20:50\nPARAbot · расписание 
+UID:d53563bc85cb84b6-20261026-1-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261026T053000Z
+DTEND:20261026T070000Z
+SUMMARY:Программирование в сетевых операцио
+ нных средах · практика
+LOCATION:517/1
+DESCRIPTION:Преподаватель: Захаров Иван Дмитр
+ иевич\nПара 1 · 08:30–10:00\nPARAbot · расписание 
  СыктГУ
 END:VEVENT
 BEGIN:VEVENT
-UID:d53563bc85cb84b6-20261107-x-0-0@parabot
-DTSTAMP:20261028T133300Z
-DTSTART:20261107T162000Z
-DTEND:20261107T175000Z
-SUMMARY:СГУ им. Питирима Сорокина О проекте С
- ервисы Библиотека Техподдержка © 2016-2026 Ф
- ГБОУ ВО "СГУ им. Питирима Сорокина". 167001\, 
- г. Сыктывкар\, Октябрьский пр-т\, 55. тел: +7 (
- 8212) 39-03-08.
-DESCRIPTION:Пара — · 19:20–20:50\nPARAbot · расписание 
+UID:d53563bc85cb84b6-20261026-2-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261026T071000Z
+DTEND:20261026T084000Z
+SUMMARY:Программирование в сетевых операцио
+ нных средах · практика
+LOCATION:517/1
+DESCRIPTION:Преподаватель: Захаров Иван Дмитр
+ иевич\nПара 2 · 10:10–11:40\nPARAbot · расписание 
  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261026-3-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261026T094000Z
+DTEND:20261026T111000Z
+SUMMARY:Математика · лекция
+LOCATION:412/1
+DESCRIPTION:Преподаватель: Баженов Илья Ивано
+ вич\nПара 3 · 12:40–14:10\nPARAbot · расписание Сы
+ ктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261026-4-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261026T112000Z
+DTEND:20261026T125000Z
+SUMMARY:Экономическая теория · практика
+LOCATION:425/1
+DESCRIPTION:Преподаватель: Куликова Анна Нико
+ лаевна\nПара 4 · 14:20–15:50\nPARAbot · расписание
+  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261027-2-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261027T071000Z
+DTEND:20261027T084000Z
+SUMMARY:Информатика и программирование · ле
+ кция
+LOCATION:412/1
+DESCRIPTION:Преподаватель: Гольчевский Юрий В
+ алентинович\nПара 2 · 10:10–11:40\nPARAbot · распи
+ сание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261028-1-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261028T053000Z
+DTEND:20261028T070000Z
+SUMMARY:Программирование в сетевых операцио
+ нных средах · лекция
+LOCATION:435/1
+DESCRIPTION:Преподаватель: Ермоленко Андрей В
+ асильевич\nПара 1 · 08:30–10:00\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261028-2-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261028T071000Z
+DTEND:20261028T084000Z
+SUMMARY:Математика · практика
+LOCATION:433/1
+DESCRIPTION:Преподаватель: Старцева Евгения Н
+ иколаевна\nПара 2 · 10:10–11:40\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261028-3-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261028T094000Z
+DTEND:20261028T111000Z
+SUMMARY:Иностранный язык · практика
+LOCATION:425/1
+DESCRIPTION:Преподаватель: Латыпов Рустем Аль
+ бертович\nПара 3 · 12:40–14:10\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261028-4-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261028T112000Z
+DTEND:20261028T125000Z
+SUMMARY:Экономическая теория · лекция
+LOCATION:242-243/8
+DESCRIPTION:Преподаватель: Куликова Анна Нико
+ лаевна\nПара 4 · 14:20–15:50\nPARAbot · расписание
+  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261029-3-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261029T094000Z
+DTEND:20261029T111000Z
+SUMMARY:История России · лекция
+LOCATION:412/1
+DESCRIPTION:Преподаватель: Яковлева Светлана 
+ Ильинична\nПара 3 · 12:40–14:10\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261029-4-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261029T112000Z
+DTEND:20261029T125000Z
+SUMMARY:Информационные технологии · лекция
+LOCATION:412/1
+DESCRIPTION:Преподаватель: Бабикова Надежда Н
+ иколаевна\nПара 4 · 14:20–15:50\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261030-1-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261030T053000Z
+DTEND:20261030T070000Z
+SUMMARY:Информатика и программирование · пр
+ актика
+LOCATION:518/1
+DESCRIPTION:Преподаватель: Гольчевский Юрий В
+ алентинович\nПара 1 · 08:30–10:00\nPARAbot · распи
+ сание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261030-2-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261030T071000Z
+DTEND:20261030T084000Z
+SUMMARY:Информатика и программирование · пр
+ актика
+LOCATION:518/1
+DESCRIPTION:Преподаватель: Гольчевский Юрий В
+ алентинович\nПара 2 · 10:10–11:40\nPARAbot · распи
+ сание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261030-3-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261030T094000Z
+DTEND:20261030T111000Z
+SUMMARY:История России · лекция
+LOCATION:412/1
+DESCRIPTION:Преподаватель: Яковлева Светлана 
+ Ильинична\nПара 3 · 12:40–14:10\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261030-4-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261030T112000Z
+DTEND:20261030T125000Z
+SUMMARY:Информационные технологии · практик
+ а
+LOCATION:516/1
+DESCRIPTION:Преподаватель: Туркина Марина Сте
+ фановна\nПара 4 · 14:20–15:50\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261031-2-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261031T071000Z
+DTEND:20261031T084000Z
+SUMMARY:Экономическая теория · практика
+LOCATION:425/1
+DESCRIPTION:Преподаватель: Куликова Анна Нико
+ лаевна\nПара 2 · 10:10–11:40\nPARAbot · расписание
+  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261102-1-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261102T053000Z
+DTEND:20261102T070000Z
+SUMMARY:Информатика и программирование · пр
+ актика
+LOCATION:517/1
+DESCRIPTION:Преподаватель: Гольчевский Юрий В
+ алентинович\nПара 1 · 08:30–10:00\nPARAbot · распи
+ сание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261102-3-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261102T094000Z
+DTEND:20261102T111000Z
+SUMMARY:Математика · лекция
+LOCATION:412/1
+DESCRIPTION:Преподаватель: Баженов Илья Ивано
+ вич\nПара 3 · 12:40–14:10\nPARAbot · расписание Сы
+ ктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261102-4-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261102T112000Z
+DTEND:20261102T125000Z
+SUMMARY:Информационные технологии · практик
+ а
+LOCATION:518/1
+DESCRIPTION:Преподаватель: Туркина Марина Сте
+ фановна\nПара 4 · 14:20–15:50\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261103-1-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261103T053000Z
+DTEND:20261103T070000Z
+SUMMARY:Основы функционирования вычислител
+ ьных систем · лекция
+LOCATION:411/1
+DESCRIPTION:Преподаватель: Плешев Дмитрий Але
+ ксандрович\nПара 1 · 08:30–10:00\nPARAbot · распис
+ ание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261103-2-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261103T071000Z
+DTEND:20261103T084000Z
+SUMMARY:Физическая культура и спорт · практи
+ ка
+LOCATION:425/1
+DESCRIPTION:Преподаватель: Панченко Валерия В
+ алерьевна\nПара 2 · 10:10–11:40\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261105-1-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261105T053000Z
+DTEND:20261105T070000Z
+SUMMARY:Программирование в сетевых операцио
+ нных средах · практика
+LOCATION:517/1
+DESCRIPTION:Преподаватель: Захаров Иван Дмитр
+ иевич\nПара 1 · 08:30–10:00\nPARAbot · расписание 
+ СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261105-2-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261105T071000Z
+DTEND:20261105T084000Z
+SUMMARY:Математика · практика
+LOCATION:437/1
+DESCRIPTION:Преподаватель: Старцева Евгения Н
+ иколаевна\nПара 2 · 10:10–11:40\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261105-3-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261105T094000Z
+DTEND:20261105T111000Z
+SUMMARY:История России · лекция
+LOCATION:412/1
+DESCRIPTION:Преподаватель: Яковлева Светлана 
+ Ильинична\nПара 3 · 12:40–14:10\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261105-4-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261105T112000Z
+DTEND:20261105T125000Z
+SUMMARY:Физическая культура и спорт · лекция
+LOCATION:412/1
+DESCRIPTION:Преподаватель: Голов Владимир Але
+ ксандрович\nПара 4 · 14:20–15:50\nPARAbot · распис
+ ание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261106-1-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261106T053000Z
+DTEND:20261106T070000Z
+SUMMARY:Информационные технологии · практик
+ а
+LOCATION:518/1
+DESCRIPTION:Преподаватель: Туркина Марина Сте
+ фановна\nПара 1 · 08:30–10:00\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261106-2-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261106T071000Z
+DTEND:20261106T084000Z
+SUMMARY:История России · практика
+LOCATION:433/1
+DESCRIPTION:Преподаватель: Яковлева Светлана 
+ Ильинична\nПара 2 · 10:10–11:40\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261106-3-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261106T094000Z
+DTEND:20261106T111000Z
+SUMMARY:Информационные технологии · лекция
+LOCATION:411/1
+DESCRIPTION:Преподаватель: Бабикова Надежда Н
+ иколаевна\nПара 3 · 12:40–14:10\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261106-4-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261106T112000Z
+DTEND:20261106T125000Z
+SUMMARY:Иностранный язык · практика
+LOCATION:437/1
+DESCRIPTION:Преподаватель: Латыпов Рустем Аль
+ бертович\nПара 4 · 14:20–15:50\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261107-3-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261107T094000Z
+DTEND:20261107T111000Z
+SUMMARY:Основы функционирования вычислител
+ ьных систем · практика
+LOCATION:519/1
+DESCRIPTION:Преподаватель: Плешев Дмитрий Але
+ ксандрович\nПара 3 · 12:40–14:10\nPARAbot · распис
+ ание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:d53563bc85cb84b6-20261107-4-0-0@parabot
+DTSTAMP:20261028T135200Z
+DTSTART:20261107T112000Z
+DTEND:20261107T125000Z
+SUMMARY:Основы функционирования вычислител
+ ьных систем · практика
+LOCATION:519/1
+DESCRIPTION:Преподаватель: Плешев Дмитрий Але
+ ксандрович\nПара 4 · 14:20–15:50\nPARAbot · распис
+ ание СыктГУ
 END:VEVENT
 END:VCALENDAR
