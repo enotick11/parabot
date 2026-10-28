@@ -1,0 +1,369 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PARAbot//Raspisanie SyktGU//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PARAbot · 421п-ПНо
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261026-2-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261026T071000Z
+DTEND:20261026T084000Z
+SUMMARY:Психология · практика
+LOCATION:201/8
+DESCRIPTION:Преподаватель: Смышляева Олеся Ми
+ хайловна\nПара 2 · 10:10–11:40\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261026-3-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261026T094000Z
+DTEND:20261026T111000Z
+SUMMARY:Педагогика начального образования ·
+  лекция
+LOCATION:411/8
+DESCRIPTION:Преподаватель: Попова Анна Василь
+ евна\nПара 3 · 12:40–14:10\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261026-4-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261026T112000Z
+DTEND:20261026T125000Z
+SUMMARY:Учебная практика · практика
+LOCATION:131/8
+DESCRIPTION:Преподаватель: Кабатова Жанна Вяч
+ еславовна\nПара 4 · 14:20–15:50\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261026-5-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261026T130000Z
+DTEND:20261026T143000Z
+SUMMARY:Методика обучения математике и инфо
+ рматике в начальной школе · лекция
+LOCATION:131/8
+DESCRIPTION:Преподаватель: Ульянова Ирина Ана
+ тольевна\nПара 5 · 16:00–17:30\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261027-1-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261027T053000Z
+DTEND:20261027T070000Z
+SUMMARY:Психология · практика
+LOCATION:421/8
+DESCRIPTION:Преподаватель: Смышляева Олеся Ми
+ хайловна\nПара 1 · 08:30–10:00\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261027-2-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261027T071000Z
+DTEND:20261027T084000Z
+SUMMARY:Методика обучения математике и инфо
+ рматике в начальной школе · практика
+LOCATION:206/8
+DESCRIPTION:Преподаватель: Ульянова Ирина Ана
+ тольевна\nПара 2 · 10:10–11:40\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261027-3-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261027T094000Z
+DTEND:20261027T111000Z
+SUMMARY:История Республики коми (л.) 135-136/8
+DESCRIPTION:Преподаватель: Рочева Ирина Влади
+ мировна\nПара 3 · 12:40–14:10\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261027-4-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261027T112000Z
+DTEND:20261027T125000Z
+SUMMARY:Финансово-экономический практикум (
+ л.) 135-136/8
+DESCRIPTION:Преподаватель: Вишняков Андрей Ан
+ атольевич\nПара 4 · 14:20–15:50\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261028-2-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261028T071000Z
+DTEND:20261028T084000Z
+SUMMARY:Методика обучения русскому языку в н
+ ачальной школе · практика
+LOCATION:132/8
+DESCRIPTION:Преподаватель: Терентьева Светлан
+ а Николаевна\nПара 2 · 10:10–11:40\nPARAbot · расп
+ исание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261028-3-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261028T094000Z
+DTEND:20261028T111000Z
+SUMMARY:Практикум по языковому образованию 
+ младших школьников · практика
+LOCATION:248/1
+DESCRIPTION:Преподаватель: Мальцева Валентина
+  Александровна\nПара 3 · 12:40–14:10\nPARAbot · ра
+ списание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261029-1-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261029T053000Z
+DTEND:20261029T070000Z
+SUMMARY:Методика обучения русскому языку в н
+ ачальной школе · лекция
+LOCATION:131/8
+DESCRIPTION:Преподаватель: Терентьева Светлан
+ а Николаевна\nПара 1 · 08:30–10:00\nPARAbot · расп
+ исание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261029-2-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261029T071000Z
+DTEND:20261029T084000Z
+SUMMARY:Психолого-педагогические основы уче
+ бной деятельности младших школьников · 
+ лекция
+LOCATION:214/8
+DESCRIPTION:Преподаватель: Поберезкая Вита Фе
+ доровна\nПара 2 · 10:10–11:40\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261029-3-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261029T094000Z
+DTEND:20261029T111000Z
+SUMMARY:Основы теории детской литературы и п
+ рактика читательской деятельности · лек
+ ция
+LOCATION:210/8
+DESCRIPTION:Преподаватель: Прокуратова Екатер
+ ина Владимировна\nПара 3 · 12:40–14:10\nPARAbot · 
+ расписание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261029-4-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261029T112000Z
+DTEND:20261029T125000Z
+SUMMARY:Основы теории детской литературы и п
+ рактика читательской деятельности · пра
+ ктика
+LOCATION:210/8
+DESCRIPTION:Преподаватель: Прокуратова Екатер
+ ина Владимировна\nПара 4 · 14:20–15:50\nPARAbot · 
+ расписание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261030-2-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261030T071000Z
+DTEND:20261030T084000Z
+SUMMARY:История Республики Коми (пр.) 135-136/8
+DESCRIPTION:Преподаватель: Попов Назар Алекса
+ ндрович\nПара 2 · 10:10–11:40\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261030-3-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261030T094000Z
+DTEND:20261030T111000Z
+SUMMARY:Педагогика · практика
+LOCATION:210/8
+DESCRIPTION:Преподаватель: Шабанова Елена Ник
+ олаевна\nПара 3 · 12:40–14:10\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261031-2-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261031T071000Z
+DTEND:20261031T084000Z
+SUMMARY:Элективные дисциплины (модули) по фи
+ зической культуре и спорту (пр.) неизв.\, Ц
+ ентр ФК
+DESCRIPTION:Пара 2 · 10:10–11:40\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261102-3-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261102T094000Z
+DTEND:20261102T111000Z
+SUMMARY:Педагогика начального образования ·
+  практика
+LOCATION:131/8
+DESCRIPTION:Преподаватель: Попова Анна Василь
+ евна\nПара 3 · 12:40–14:10\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261102-5-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261102T130000Z
+DTEND:20261102T143000Z
+SUMMARY:Методика обучения математике и инфо
+ рматике в начальной школе · практика
+LOCATION:131/8
+DESCRIPTION:Преподаватель: Ульянова Ирина Ана
+ тольевна\nПара 5 · 16:00–17:30\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261103-2-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261103T071000Z
+DTEND:20261103T084000Z
+SUMMARY:Педагогика начального образования ·
+  практика
+LOCATION:206/8
+DESCRIPTION:Преподаватель: Попова Анна Василь
+ евна\nПара 2 · 10:10–11:40\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261103-3-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261103T094000Z
+DTEND:20261103T111000Z
+SUMMARY:Педагогика (л.) 301-302/8
+DESCRIPTION:Преподаватель: Шабанова Елена Ник
+ олаевна\nПара 3 · 12:40–14:10\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261103-4-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261103T112000Z
+DTEND:20261103T125000Z
+SUMMARY:Психология (л.) 301-302/8
+DESCRIPTION:Преподаватель: Савчина Марина Дми
+ триевна\nПара 4 · 14:20–15:50\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261105-1-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261105T053000Z
+DTEND:20261105T070000Z
+SUMMARY:Методика обучения русскому языку в н
+ ачальной школе · практика
+LOCATION:131/8
+DESCRIPTION:Преподаватель: Терентьева Светлан
+ а Николаевна\nПара 1 · 08:30–10:00\nPARAbot · расп
+ исание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261105-2-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261105T071000Z
+DTEND:20261105T084000Z
+SUMMARY:Психолого-педагогические основы уче
+ бной деятельности младших школьников · 
+ практика
+LOCATION:214/8
+DESCRIPTION:Преподаватель: Поберезкая Вита Фе
+ доровна\nПара 2 · 10:10–11:40\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261105-3-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261105T094000Z
+DTEND:20261105T111000Z
+SUMMARY:Основы теории детской литературы и п
+ рактика читательской деятельности · пра
+ ктика
+LOCATION:210/8
+DESCRIPTION:Преподаватель: Прокуратова Екатер
+ ина Владимировна\nПара 3 · 12:40–14:10\nPARAbot · 
+ расписание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261105-4-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261105T112000Z
+DTEND:20261105T125000Z
+SUMMARY:Основы теории детской литературы и п
+ рактика читательской деятельности · пра
+ ктика
+LOCATION:210/8
+DESCRIPTION:Преподаватель: Прокуратова Екатер
+ ина Владимировна\nПара 4 · 14:20–15:50\nPARAbot · 
+ расписание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261106-2-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261106T071000Z
+DTEND:20261106T084000Z
+SUMMARY:Методология и методы психологически
+ х исследований · практика
+LOCATION:421/8
+DESCRIPTION:Преподаватель: Савчина Марина Дми
+ триевна\nПара 2 · 10:10–11:40\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261106-3-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261106T094000Z
+DTEND:20261106T111000Z
+SUMMARY:Педагогика · практика
+LOCATION:214/8
+DESCRIPTION:Преподаватель: Шабанова Елена Ник
+ олаевна\nПара 3 · 12:40–14:10\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261106-4-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261106T112000Z
+DTEND:20261106T125000Z
+SUMMARY:Практикум по языковому образованию 
+ младших школьников (пр.) 135-136/8
+DESCRIPTION:Преподаватель: Мальцева Валентина
+  Александровна\nПара 4 · 14:20–15:50\nPARAbot · ра
+ списание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261106-6-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261106T144000Z
+DTEND:20261106T161000Z
+SUMMARY:Факультатив Основы фотодела · лекци
+ я
+LOCATION:220/5
+DESCRIPTION:Преподаватель: Шашерина Ольга Але
+ ксандровна\nПара 6 · 17:40–19:10\nPARAbot · распис
+ ание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:5468ade7b4345290-20261107-2-0-0@parabot
+DTSTAMP:20261028T072900Z
+DTSTART:20261107T071000Z
+DTEND:20261107T084000Z
+SUMMARY:Элективные дисциплины (модули) по фи
+ зической культуре и спорту (пр.) неизв.\, Ц
+ ентр ФК
+DESCRIPTION:Пара 2 · 10:10–11:40\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+END:VCALENDAR
