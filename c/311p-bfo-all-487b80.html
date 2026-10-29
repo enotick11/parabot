@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Календарь · 311п-БФо</title>
+<style>
+:root{--bg:#EDF3F3;--card:#fff;--text:#25252B;--muted:#66737A;--line:#D9E7E8;--accent:#528A9A}
+@media (prefers-color-scheme:dark){:root{--bg:#1B1B20;--card:#25252B;--text:#E4ECED;--muted:#8C989D;--line:#34343C;--accent:#6FA6B5}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:520px;margin:0 auto;padding:28px 16px 40px}
+.logo{display:inline-flex;flex-direction:column;gap:4px;vertical-align:middle;margin-right:10px}
+.logo span{display:flex;align-items:center;justify-content:center;width:52px;height:26px;border-radius:8px;font:900 17px/1 -apple-system,sans-serif;color:#D9E7E8;border-left:4px solid}
+.logo span:first-child{background:#34343C;border-color:#528A9A}.logo span:last-child{background:#528A9A;border-color:#D9E7E8}
+h1{display:inline;font-size:28px;vertical-align:middle}h1 b{color:var(--accent)}
+.sub{color:var(--muted);margin:14px 0 22px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px;margin-bottom:14px}
+.card h2{font-size:17px;margin:0 0 10px;color:var(--accent)}
+.btn{display:block;text-align:center;background:#528A9A;color:#fff;text-decoration:none;font-weight:600;font-size:17px;padding:14px;border-radius:12px;border:0;width:100%;cursor:pointer;font-family:inherit}
+.btn.sec{background:transparent;color:var(--accent);border:1px solid var(--line);margin-top:10px;font-size:15px;padding:11px}
+ol{padding-left:20px;margin:10px 0 0}li{margin:4px 0}
+code{display:block;word-break:break-all;background:var(--bg);border-radius:8px;padding:8px 10px;font-size:13px;margin-top:10px}
+.note{color:var(--muted);font-size:14px}.lnk{color:var(--accent)}
+</style></head><body><div class="wrap">
+<div><span class="logo"><span>PA</span><span>RA</span></span><h1>PARA<b>bot</b></h1></div>
+<div class="sub">Календарь пар: <b>311п-БФо</b><br>Подпишитесь один раз — расписание и замены будут обновляться в календаре сами.</div>
+<div class="card" id="ios"><h2>iPhone и iPad</h2>
+<a class="btn" href="webcal://enotick11.github.io/parabot/cal/311p-bfo-all-487b80.ics">📲 Подписаться в Календаре</a>
+<ol class="note"><li>Нажмите кнопку и подтвердите «Подписаться».</li><li>Готово: пары появятся в приложении «Календарь» и в виджетах.</li></ol>
+<p class="note">Не получилось? Настройки → Приложения → Календарь → Учётные записи → Новая учётная запись → Другое →
+«Подписной календарь» и вставьте ссылку:</p><code>https://enotick11.github.io/parabot/cal/311p-bfo-all-487b80.ics</code>
+<button class="btn sec" onclick='copyUrl(this)'>Скопировать ссылку</button></div>
+<div class="card" id="android"><h2>Android · Google Календарь</h2>
+<ol class="note"><li>Откройте <b>calendar.google.com</b> на компьютере (в приложении подписки нет).</li>
+<li>Слева «Другие календари» → «+» → «Добавить по URL».</li><li>Вставьте ссылку и нажмите «Добавить календарь».</li></ol>
+<code>https://enotick11.github.io/parabot/cal/311p-bfo-all-487b80.ics</code><button class="btn sec" onclick='copyUrl(this)'>Скопировать ссылку</button>
+<a class="btn sec" href="https://enotick11.github.io/parabot/cal/311p-bfo-all-487b80.ics">Скачать файл .ics</a></div>
+<p class="note">Календарь телефона сам проверяет ссылку (обычно раз в час), поэтому замены появятся без вашего участия.
+Расписание берётся с сайта СыктГУ. <a href="https://t.me/sytksu_schedule_bot" class="lnk">Открыть PARAbot</a></p>
+</div>
+<script>
+function copyUrl(b){navigator.clipboard&&navigator.clipboard.writeText("https://enotick11.github.io/parabot/cal/311p-bfo-all-487b80.ics").then(function(){b.textContent='Скопировано ✓'})}
+// На Android показываем свой блок первым
+if(/Android/i.test(navigator.userAgent)){var a=document.getElementById('android');a.parentNode.insertBefore(a,document.getElementById('ios'))}
+</script>
+</body></html>
