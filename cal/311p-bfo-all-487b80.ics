@@ -6,206 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:PARAbot · 311п-БФо
 X-WR-TIMEZONE:Europe/Moscow
 BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261026-1-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261026T053000Z
-DTEND:20261026T070000Z
-SUMMARY:Иностранный язык\, нем · практика
-LOCATION:313/2
-DESCRIPTION:Преподаватель: Белова Наталья Вик
- торовна\nПара 1 · 08:30–10:00\nPARAbot · расписани
- е СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261026-2-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261026T071000Z
-DTEND:20261026T084000Z
-SUMMARY:Теория и методика гимнастики · лекци
- я
-LOCATION:321/8
-DESCRIPTION:Преподаватель: Панченко Валерия В
- алерьевна\nПара 2 · 10:10–11:40\nPARAbot · расписа
- ние СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261026-3-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261026T094000Z
-DTEND:20261026T111000Z
-SUMMARY:Иностранный язык · практика
-LOCATION:311/8
-DESCRIPTION:Преподаватель: Стрекалова Наталия
-  Анатольевна\nПара 3 · 12:40–14:10\nPARAbot · расп
- исание СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261027-1-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261027T053000Z
-DTEND:20261027T070000Z
-SUMMARY:Психология · лекция
-LOCATION:202-203/8
-DESCRIPTION:Преподаватель: Савчина Марина Дми
- триевна\nПара 1 · 08:30–10:00\nPARAbot · расписани
- е СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261027-2-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261027T071000Z
-DTEND:20261027T084000Z
-SUMMARY:Возрастная анатомия\, физиология и г
- игиена · лекция
-LOCATION:202-203/8
-DESCRIPTION:Преподаватель: Рогачевская Ольга 
- Васильевна\nПара 2 · 10:10–11:40\nPARAbot · распис
- ание СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261027-3-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261027T094000Z
-DTEND:20261027T111000Z
-SUMMARY:Технологии цифрового образования · 
- лекция
-LOCATION:202-203/8
-DESCRIPTION:Преподаватель: Мизев Евгений Иван
- ович\nПара 3 · 12:40–14:10\nPARAbot · расписание С
- ыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261027-4-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261027T112000Z
-DTEND:20261027T125000Z
-SUMMARY:История России · лекция
-LOCATION:202-203/8
-DESCRIPTION:Преподаватель: Кутузова Анастасия
-  Александровна\nПара 4 · 14:20–15:50\nPARAbot · ра
- списание СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261028-1-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261028T053000Z
-DTEND:20261028T070000Z
-SUMMARY:Технологии цифрового образования · 
- практика
-LOCATION:214/8
-DESCRIPTION:Преподаватель: Мизев Евгений Иван
- ович\nПара 1 · 08:30–10:00\nPARAbot · расписание С
- ыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261028-2-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261028T071000Z
-DTEND:20261028T084000Z
-SUMMARY:Русский язык и культура речи · практ
- ика
-LOCATION:411/8
-DESCRIPTION:Преподаватель: Глебко Галина Иван
- овна\nПара 2 · 10:10–11:40\nPARAbot · расписание С
- ыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261028-3-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261028T094000Z
-DTEND:20261028T111000Z
-SUMMARY:Возрастная анатомия\, физиология и г
- игиена · практика
-LOCATION:415-416/8
-DESCRIPTION:Преподаватель: Рогачевская Ольга 
- Васильевна\nПара 3 · 12:40–14:10\nPARAbot · распис
- ание СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261029-2-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261029T071000Z
-DTEND:20261029T084000Z
-SUMMARY:Теория и методика гимнастики · практ
- ика
-LOCATION:Зал №3/1
-DESCRIPTION:Преподаватель: Панченко Валерия В
- алерьевна\nПара 2 · 10:10–11:40\nPARAbot · расписа
- ние СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261029-3-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261029T094000Z
-DTEND:20261029T111000Z
-SUMMARY:Глобальные проблемы человечества · 
- лекция
-LOCATION:322/8
-DESCRIPTION:Преподаватель: Доровских Геннадий
-  Николаевич\nПара 3 · 12:40–14:10\nPARAbot · распи
- сание СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261030-1-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261030T053000Z
-DTEND:20261030T070000Z
-SUMMARY:Безопасность жизнедеятельности · пр
- актика
-LOCATION:419/8
-DESCRIPTION:Преподаватель: Зеленкин Николай П
- авлович\nПара 1 · 08:30–10:00\nPARAbot · расписани
- е СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261030-2-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261030T071000Z
-DTEND:20261030T084000Z
-SUMMARY:История физической культуры · лекци
- я
-LOCATION:321/8
-DESCRIPTION:Преподаватель: Голов Владимир Але
- ксандрович\nПара 2 · 10:10–11:40\nPARAbot · распис
- ание СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261030-3-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261030T094000Z
-DTEND:20261030T111000Z
-SUMMARY:Глобальные проблемы человечества · 
- практика
-LOCATION:424-425/8
-DESCRIPTION:Преподаватель: Доровских Геннадий
-  Николаевич\nПара 3 · 12:40–14:10\nPARAbot · распи
- сание СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261031-2-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261031T071000Z
-DTEND:20261031T084000Z
-SUMMARY:История России · лекция
-LOCATION:202-203/8
-DESCRIPTION:Преподаватель: Кутузова Анастасия
-  Александровна\nПара 2 · 10:10–11:40\nPARAbot · ра
- списание СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:76826ec4bcfa10a8-20261031-3-0-0@parabot
-DTSTAMP:20261029T144600Z
-DTSTART:20261031T094000Z
-DTEND:20261031T111000Z
-SUMMARY:История России · лекция
-LOCATION:202-203/8
-DESCRIPTION:Преподаватель: Кутузова Анастасия
-  Александровна\nПара 3 · 12:40–14:10\nPARAbot · ра
- списание СыктГУ
-END:VEVENT
-BEGIN:VEVENT
 UID:76826ec4bcfa10a8-20261102-1-0-0@parabot
-DTSTAMP:20261029T144600Z
+DTSTAMP:20261101T212800Z
 DTSTART:20261102T053000Z
 DTEND:20261102T070000Z
 SUMMARY:Иностранный язык\, нем · практика
@@ -216,7 +18,7 @@ DESCRIPTION:Преподаватель: Белова Наталья Вик
 END:VEVENT
 BEGIN:VEVENT
 UID:76826ec4bcfa10a8-20261102-2-0-0@parabot
-DTSTAMP:20261029T144600Z
+DTSTAMP:20261101T212800Z
 DTSTART:20261102T071000Z
 DTEND:20261102T084000Z
 SUMMARY:Теория и методика гимнастики · лекци
@@ -228,7 +30,7 @@ DESCRIPTION:Преподаватель: Панченко Валерия В
 END:VEVENT
 BEGIN:VEVENT
 UID:76826ec4bcfa10a8-20261102-3-0-0@parabot
-DTSTAMP:20261029T144600Z
+DTSTAMP:20261101T212800Z
 DTSTART:20261102T094000Z
 DTEND:20261102T111000Z
 SUMMARY:Иностранный язык · практика
@@ -239,7 +41,7 @@ DESCRIPTION:Преподаватель: Стрекалова Наталия
 END:VEVENT
 BEGIN:VEVENT
 UID:76826ec4bcfa10a8-20261103-1-0-0@parabot
-DTSTAMP:20261029T144600Z
+DTSTAMP:20261101T212800Z
 DTSTART:20261103T053000Z
 DTEND:20261103T070000Z
 SUMMARY:Безопасность жизнедеятельности · ле
@@ -251,7 +53,7 @@ DESCRIPTION:Преподаватель: Репина Екатерина Н
 END:VEVENT
 BEGIN:VEVENT
 UID:76826ec4bcfa10a8-20261103-2-0-0@parabot
-DTSTAMP:20261029T144600Z
+DTSTAMP:20261101T212800Z
 DTSTART:20261103T071000Z
 DTEND:20261103T084000Z
 SUMMARY:Чрезвычайные ситуации природного ха
@@ -263,7 +65,7 @@ DESCRIPTION:Преподаватель: Игушева Людмила Ив
 END:VEVENT
 BEGIN:VEVENT
 UID:76826ec4bcfa10a8-20261103-3-0-0@parabot
-DTSTAMP:20261029T144600Z
+DTSTAMP:20261101T212800Z
 DTSTART:20261103T094000Z
 DTEND:20261103T111000Z
 SUMMARY:Русский язык и культура речи · лекци
@@ -275,7 +77,7 @@ DESCRIPTION:Преподаватель: Глебко Галина Иван
 END:VEVENT
 BEGIN:VEVENT
 UID:76826ec4bcfa10a8-20261103-4-0-0@parabot
-DTSTAMP:20261029T144600Z
+DTSTAMP:20261101T212800Z
 DTSTART:20261103T112000Z
 DTEND:20261103T125000Z
 SUMMARY:История России · лекция
@@ -286,7 +88,7 @@ DESCRIPTION:Преподаватель: Кутузова Анастасия
 END:VEVENT
 BEGIN:VEVENT
 UID:76826ec4bcfa10a8-20261105-2-0-0@parabot
-DTSTAMP:20261029T144600Z
+DTSTAMP:20261101T212800Z
 DTSTART:20261105T071000Z
 DTEND:20261105T084000Z
 SUMMARY:Теория и методика гимнастики · практ
@@ -298,7 +100,7 @@ DESCRIPTION:Преподаватель: Панченко Валерия В
 END:VEVENT
 BEGIN:VEVENT
 UID:76826ec4bcfa10a8-20261105-3-0-0@parabot
-DTSTAMP:20261029T144600Z
+DTSTAMP:20261101T212800Z
 DTSTART:20261105T094000Z
 DTEND:20261105T111000Z
 SUMMARY:История физической культуры · практ
@@ -310,7 +112,7 @@ DESCRIPTION:Преподаватель: Уляшева Евгения Ан
 END:VEVENT
 BEGIN:VEVENT
 UID:76826ec4bcfa10a8-20261105-4-0-0@parabot
-DTSTAMP:20261029T144600Z
+DTSTAMP:20261101T212800Z
 DTSTART:20261105T112000Z
 DTEND:20261105T125000Z
 SUMMARY:История России · лекция
@@ -321,7 +123,7 @@ DESCRIPTION:Преподаватель: Кутузова Анастасия
 END:VEVENT
 BEGIN:VEVENT
 UID:76826ec4bcfa10a8-20261106-1-0-0@parabot
-DTSTAMP:20261029T144600Z
+DTSTAMP:20261101T212800Z
 DTSTART:20261106T053000Z
 DTEND:20261106T070000Z
 SUMMARY:История России · практика
@@ -332,7 +134,7 @@ DESCRIPTION:Преподаватель: Редькин Михаил Оле
 END:VEVENT
 BEGIN:VEVENT
 UID:76826ec4bcfa10a8-20261106-2-0-0@parabot
-DTSTAMP:20261029T144600Z
+DTSTAMP:20261101T212800Z
 DTSTART:20261106T071000Z
 DTEND:20261106T084000Z
 SUMMARY:Чрезвычайные ситуации природного ха
@@ -344,7 +146,7 @@ DESCRIPTION:Преподаватель: Игушева Людмила Ив
 END:VEVENT
 BEGIN:VEVENT
 UID:76826ec4bcfa10a8-20261106-3-0-0@parabot
-DTSTAMP:20261029T144600Z
+DTSTAMP:20261101T212800Z
 DTSTART:20261106T094000Z
 DTEND:20261106T111000Z
 SUMMARY:Глобальные проблемы человечества · 
@@ -353,5 +155,227 @@ LOCATION:424-425/8
 DESCRIPTION:Преподаватель: Доровских Геннадий
   Николаевич\nПара 3 · 12:40–14:10\nPARAbot · распи
  сание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261109-1-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261109T053000Z
+DTEND:20261109T070000Z
+SUMMARY:Иностранный язык\, нем · практика
+LOCATION:313/2
+DESCRIPTION:Преподаватель: Белова Наталья Вик
+ торовна\nПара 1 · 08:30–10:00\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261109-2-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261109T071000Z
+DTEND:20261109T084000Z
+SUMMARY:Глобальные проблемы человечества · 
+ лекция
+LOCATION:210/8
+DESCRIPTION:Преподаватель: Доровских Геннадий
+  Николаевич\nПара 2 · 10:10–11:40\nPARAbot · распи
+ сание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261109-3-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261109T094000Z
+DTEND:20261109T111000Z
+SUMMARY:Иностранный язык · практика
+LOCATION:311/8
+DESCRIPTION:Преподаватель: Стрекалова Наталия
+  Анатольевна\nПара 3 · 12:40–14:10\nPARAbot · расп
+ исание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261110-1-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261110T053000Z
+DTEND:20261110T070000Z
+SUMMARY:Психология · лекция
+LOCATION:202-203/8
+DESCRIPTION:Преподаватель: Савчина Марина Дми
+ триевна\nПара 1 · 08:30–10:00\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261110-2-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261110T071000Z
+DTEND:20261110T084000Z
+SUMMARY:Возрастная анатомия\, физиология и г
+ игиена · лекция
+LOCATION:202-203/8
+DESCRIPTION:Преподаватель: Рогачевская Ольга 
+ Васильевна\nПара 2 · 10:10–11:40\nPARAbot · распис
+ ание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261110-3-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261110T094000Z
+DTEND:20261110T111000Z
+SUMMARY:Технологии цифрового образования · 
+ лекция
+LOCATION:202-203/8
+DESCRIPTION:Преподаватель: Мизев Евгений Иван
+ ович\nПара 3 · 12:40–14:10\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261110-4-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261110T112000Z
+DTEND:20261110T125000Z
+SUMMARY:История России · лекция
+LOCATION:301-302/8
+DESCRIPTION:Преподаватель: Кутузова Анастасия
+  Александровна\nПара 4 · 14:20–15:50\nPARAbot · ра
+ списание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261111-1-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261111T053000Z
+DTEND:20261111T070000Z
+SUMMARY:Технологии цифрового образования · 
+ практика
+LOCATION:214/8
+DESCRIPTION:Преподаватель: Мизев Евгений Иван
+ ович\nПара 1 · 08:30–10:00\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261111-2-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261111T071000Z
+DTEND:20261111T084000Z
+SUMMARY:Русский язык и культура речи · практ
+ ика
+LOCATION:411/8
+DESCRIPTION:Преподаватель: Глебко Галина Иван
+ овна\nПара 2 · 10:10–11:40\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261111-3-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261111T094000Z
+DTEND:20261111T111000Z
+SUMMARY:История физической культуры · лекци
+ я
+LOCATION:311/8
+DESCRIPTION:Преподаватель: Голов Владимир Але
+ ксандрович\nПара 3 · 12:40–14:10\nPARAbot · распис
+ ание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261111-4-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261111T112000Z
+DTEND:20261111T125000Z
+SUMMARY:Безопасность жизнедеятельности · ле
+ кция
+LOCATION:301-302/8
+DESCRIPTION:Преподаватель: Репина Екатерина Н
+ иколаевна\nПара 4 · 14:20–15:50\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261112-1-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261112T053000Z
+DTEND:20261112T070000Z
+SUMMARY:Теория и методика гимнастики · лекци
+ я
+LOCATION:425/1
+DESCRIPTION:Преподаватель: Панченко Валерия В
+ алерьевна\nПара 1 · 08:30–10:00\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261112-2-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261112T071000Z
+DTEND:20261112T084000Z
+SUMMARY:Теория и методика гимнастики · практ
+ ика
+LOCATION:Зал №3/1
+DESCRIPTION:Преподаватель: Панченко Валерия В
+ алерьевна\nПара 2 · 10:10–11:40\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261112-3-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261112T094000Z
+DTEND:20261112T111000Z
+SUMMARY:Чрезвычайные ситуации природного ха
+ рактера · практика
+LOCATION:242-243/8
+DESCRIPTION:Преподаватель: Игушева Людмила Ив
+ ановна\nПара 3 · 12:40–14:10\nPARAbot · расписание
+  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261113-1-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261113T053000Z
+DTEND:20261113T070000Z
+SUMMARY:Чрезвычайные ситуации природного ха
+ рактера · лекция
+LOCATION:418/8
+DESCRIPTION:Преподаватель: Игушева Людмила Ив
+ ановна\nПара 1 · 08:30–10:00\nPARAbot · расписание
+  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261113-2-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261113T071000Z
+DTEND:20261113T084000Z
+SUMMARY:Чрезвычайные ситуации природного ха
+ рактера · практика
+LOCATION:418/8
+DESCRIPTION:Преподаватель: Игушева Людмила Ив
+ ановна\nПара 2 · 10:10–11:40\nPARAbot · расписание
+  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261113-3-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261113T094000Z
+DTEND:20261113T111000Z
+SUMMARY:Глобальные проблемы человечества · 
+ практика
+LOCATION:322/8
+DESCRIPTION:Преподаватель: Доровских Геннадий
+  Николаевич\nПара 3 · 12:40–14:10\nPARAbot · распи
+ сание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261114-2-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261114T071000Z
+DTEND:20261114T084000Z
+SUMMARY:История России · лекция
+LOCATION:301-302/8
+DESCRIPTION:Преподаватель: Кутузова Анастасия
+  Александровна\nПара 2 · 10:10–11:40\nPARAbot · ра
+ списание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:76826ec4bcfa10a8-20261114-3-0-0@parabot
+DTSTAMP:20261101T212800Z
+DTSTART:20261114T094000Z
+DTEND:20261114T111000Z
+SUMMARY:История России · лекция
+LOCATION:301-302/8
+DESCRIPTION:Преподаватель: Кутузова Анастасия
+  Александровна\nПара 3 · 12:40–14:10\nPARAbot · ра
+ списание СыктГУ
 END:VEVENT
 END:VCALENDAR
