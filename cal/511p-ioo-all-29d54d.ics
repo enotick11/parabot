@@ -6,145 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:PARAbot · 511п-ИОо
 X-WR-TIMEZONE:Europe/Moscow
 BEGIN:VEVENT
-UID:8dfeaf88b0f1cf32-20261102-1-0-0@parabot
-DTSTAMP:20261106T133400Z
-DTSTART:20261102T053000Z
-DTEND:20261102T070000Z
-SUMMARY:Иностранный язык\, нем · практика
-LOCATION:313/2
-DESCRIPTION:Преподаватель: Белова Наталья Вик
- торовна\nПара 1 · 08:30–10:00\nPARAbot · расписани
- е СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:8dfeaf88b0f1cf32-20261102-2-0-0@parabot
-DTSTAMP:20261106T133400Z
-DTSTART:20261102T071000Z
-DTEND:20261102T084000Z
-SUMMARY:Иностранный язык\, фран · практика
-LOCATION:313/2
-DESCRIPTION:Преподаватель: Стрекалова Наталия
-  Анатольевна\nПара 2 · 10:10–11:40\nPARAbot · расп
- исание СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:8dfeaf88b0f1cf32-20261102-4-0-0@parabot
-DTSTAMP:20261106T133400Z
-DTSTART:20261102T112000Z
-DTEND:20261102T125000Z
-SUMMARY:Введение в профессиональную деятель
- ность · практика
-LOCATION:418/4
-DESCRIPTION:Преподаватель: Кутузова Анастасия
-  Александровна\nПара 4 · 14:20–15:50\nPARAbot · ра
- списание СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:8dfeaf88b0f1cf32-20261102-5-0-0@parabot
-DTSTAMP:20261106T133400Z
-DTSTART:20261102T130000Z
-DTEND:20261102T143000Z
-SUMMARY:История правовых и политических уче
- ний · лекция
-LOCATION:301/4
-DESCRIPTION:Преподаватель: Кутузова Анастасия
-  Александровна\nПара 5 · 16:00–17:30\nPARAbot · ра
- списание СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:8dfeaf88b0f1cf32-20261103-2-0-0@parabot
-DTSTAMP:20261106T133400Z
-DTSTART:20261103T071000Z
-DTEND:20261103T084000Z
-SUMMARY:История Древнего мира · лекция
-LOCATION:107/4
-DESCRIPTION:Преподаватель: Павлов Андрей Альб
- ертович\nПара 2 · 10:10–11:40\nPARAbot · расписани
- е СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:8dfeaf88b0f1cf32-20261103-3-0-0@parabot
-DTSTAMP:20261106T133400Z
-DTSTART:20261103T094000Z
-DTEND:20261103T111000Z
-SUMMARY:История государства и права · лекция
-LOCATION:307/4
-DESCRIPTION:Преподаватель: Зезегова Ольга Ива
- новна\nПара 3 · 12:40–14:10\nPARAbot · расписание 
- СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:8dfeaf88b0f1cf32-20261103-5-0-0@parabot
-DTSTAMP:20261106T133400Z
-DTSTART:20261103T130000Z
-DTEND:20261103T143000Z
-SUMMARY:Технологии цифрового образования · 
- практика
-LOCATION:518/1
-DESCRIPTION:Преподаватель: Мизев Евгений Иван
- ович\nПара 5 · 16:00–17:30\nPARAbot · расписание С
- ыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:8dfeaf88b0f1cf32-20261105-3-0-0@parabot
-DTSTAMP:20261106T133400Z
-DTSTART:20261105T094000Z
-DTEND:20261105T111000Z
-SUMMARY:История Древнего мира · практика
-LOCATION:418/4
-DESCRIPTION:Преподаватель: Павлов Андрей Альб
- ертович\nПара 3 · 12:40–14:10\nPARAbot · расписани
- е СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:8dfeaf88b0f1cf32-20261105-5-0-0@parabot
-DTSTAMP:20261106T133400Z
-DTSTART:20261105T130000Z
-DTEND:20261105T143000Z
-SUMMARY:Возрастная анатомия\, физиология и г
- игиена · практика
-LOCATION:415-416/8
-DESCRIPTION:Преподаватель: Репина Екатерина Н
- иколаевна\nПара 5 · 16:00–17:30\nPARAbot · расписа
- ние СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:8dfeaf88b0f1cf32-20261106-3-0-0@parabot
-DTSTAMP:20261106T133400Z
-DTSTART:20261106T094000Z
-DTEND:20261106T111000Z
-SUMMARY:Психология · практика
-LOCATION:321/8
-DESCRIPTION:Преподаватель: Волкова Ольга Алек
- сандровна\nПара 3 · 12:40–14:10\nPARAbot · расписа
- ние СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:8dfeaf88b0f1cf32-20261106-4-0-0@parabot
-DTSTAMP:20261106T133400Z
-DTSTART:20261106T112000Z
-DTEND:20261106T125000Z
-SUMMARY:Философия · практика
-LOCATION:103/4
-DESCRIPTION:Преподаватель: Дудар Татьяна Евге
- ньевна\nПара 4 · 14:20–15:50\nPARAbot · расписание
-  СыктГУ
-END:VEVENT
-BEGIN:VEVENT
-UID:8dfeaf88b0f1cf32-20261106-5-0-0@parabot
-DTSTAMP:20261106T133400Z
-DTSTART:20261106T130000Z
-DTEND:20261106T143000Z
-SUMMARY:История правовых и политических уче
- ний · практика
-LOCATION:201/4
-DESCRIPTION:Преподаватель: Редькин Михаил Оле
- гович\nПара 5 · 16:00–17:30\nPARAbot · расписание 
- СыктГУ
-END:VEVENT
-BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261109-1-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261109T053000Z
 DTEND:20261109T070000Z
 SUMMARY:Иностранный язык\, нем · практика
@@ -155,7 +18,7 @@ DESCRIPTION:Преподаватель: Белова Наталья Вик
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261109-2-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261109T071000Z
 DTEND:20261109T084000Z
 SUMMARY:Иностранный язык\, фран · практика
@@ -166,7 +29,7 @@ DESCRIPTION:Преподаватель: Стрекалова Наталия
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261109-5-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261109T130000Z
 DTEND:20261109T143000Z
 SUMMARY:Технологии цифрового образования · 
@@ -178,7 +41,7 @@ DESCRIPTION:Преподаватель: Мизев Евгений Иван
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261110-2-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261110T071000Z
 DTEND:20261110T084000Z
 SUMMARY:Философия · лекция
@@ -189,7 +52,7 @@ DESCRIPTION:Преподаватель: Дудар Татьяна Евге
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261110-3-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261110T094000Z
 DTEND:20261110T111000Z
 SUMMARY:История Древнего мира · лекция
@@ -200,7 +63,7 @@ DESCRIPTION:Преподаватель: Павлов Андрей Альб
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261111-2-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261111T071000Z
 DTEND:20261111T084000Z
 SUMMARY:Археология · лекция
@@ -211,7 +74,7 @@ DESCRIPTION:Преподаватель: Волокитина Надежда
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261111-3-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261111T094000Z
 DTEND:20261111T111000Z
 SUMMARY:Технологии цифрового образования · 
@@ -223,7 +86,7 @@ DESCRIPTION:Преподаватель: Мизев Евгений Иван
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261111-4-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261111T112000Z
 DTEND:20261111T125000Z
 SUMMARY:Психология · лекция
@@ -234,7 +97,7 @@ DESCRIPTION:Преподаватель: Волкова Ольга Алек
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261111-5-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261111T130000Z
 DTEND:20261111T143000Z
 SUMMARY:История правовых и политических уче
@@ -246,7 +109,7 @@ DESCRIPTION:Преподаватель: Кутузова Анастасия
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261112-1-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261112T053000Z
 DTEND:20261112T070000Z
 SUMMARY:История государства и права · лекция
@@ -257,7 +120,7 @@ DESCRIPTION:Преподаватель: Зезегова Ольга Ива
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261112-2-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261112T071000Z
 DTEND:20261112T084000Z
 SUMMARY:История Древнего мира · практика
@@ -268,7 +131,7 @@ DESCRIPTION:Преподаватель: Павлов Андрей Альб
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261113-2-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261113T071000Z
 DTEND:20261113T084000Z
 SUMMARY:Возрастная анатомия\, физиология и г
@@ -280,7 +143,7 @@ DESCRIPTION:Преподаватель: Репина Екатерина Н
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261113-3-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261113T094000Z
 DTEND:20261113T111000Z
 SUMMARY:Иностранный язык · практика
@@ -291,7 +154,7 @@ DESCRIPTION:Преподаватель: Данилова Екатерина
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261113-4-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261113T112000Z
 DTEND:20261113T125000Z
 SUMMARY:Физическая культура и спорт · лекция
@@ -302,12 +165,137 @@ DESCRIPTION:Преподаватель: Собянин Александр
 END:VEVENT
 BEGIN:VEVENT
 UID:8dfeaf88b0f1cf32-20261113-5-0-0@parabot
-DTSTAMP:20261106T133400Z
+DTSTAMP:20261108T212500Z
 DTSTART:20261113T130000Z
 DTEND:20261113T143000Z
 SUMMARY:История правовых и политических уче
  ний · практика
 LOCATION:418/4
+DESCRIPTION:Преподаватель: Редькин Михаил Оле
+ гович\nПара 5 · 16:00–17:30\nPARAbot · расписание 
+ СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfeaf88b0f1cf32-20261116-1-0-0@parabot
+DTSTAMP:20261108T212500Z
+DTSTART:20261116T053000Z
+DTEND:20261116T070000Z
+SUMMARY:Иностранный язык\, нем · практика
+LOCATION:313/2
+DESCRIPTION:Преподаватель: Белова Наталья Вик
+ торовна\nПара 1 · 08:30–10:00\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfeaf88b0f1cf32-20261116-2-0-0@parabot
+DTSTAMP:20261108T212500Z
+DTSTART:20261116T071000Z
+DTEND:20261116T084000Z
+SUMMARY:Иностранный язык\, фран · практика
+LOCATION:313/2
+DESCRIPTION:Преподаватель: Стрекалова Наталия
+  Анатольевна\nПара 2 · 10:10–11:40\nPARAbot · расп
+ исание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfeaf88b0f1cf32-20261116-4-0-0@parabot
+DTSTAMP:20261108T212500Z
+DTSTART:20261116T112000Z
+DTEND:20261116T125000Z
+SUMMARY:Введение в профессиональную деятель
+ ность · практика
+LOCATION:418/4
+DESCRIPTION:Преподаватель: Кутузова Анастасия
+  Александровна\nПара 4 · 14:20–15:50\nPARAbot · ра
+ списание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfeaf88b0f1cf32-20261117-2-0-0@parabot
+DTSTAMP:20261108T212500Z
+DTSTART:20261117T071000Z
+DTEND:20261117T084000Z
+SUMMARY:История Древнего мира · лекция
+LOCATION:107/4
+DESCRIPTION:Преподаватель: Павлов Андрей Альб
+ ертович\nПара 2 · 10:10–11:40\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfeaf88b0f1cf32-20261118-1-0-0@parabot
+DTSTAMP:20261108T212500Z
+DTSTART:20261118T053000Z
+DTEND:20261118T070000Z
+SUMMARY:Археология · практика
+LOCATION:201/4
+DESCRIPTION:Преподаватель: Волокитина Надежда
+  Александровна\nПара 1 · 08:30–10:00\nPARAbot · ра
+ списание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfeaf88b0f1cf32-20261118-2-0-0@parabot
+DTSTAMP:20261108T212500Z
+DTSTART:20261118T071000Z
+DTEND:20261118T084000Z
+SUMMARY:Философия · практика
+LOCATION:418/4
+DESCRIPTION:Преподаватель: Дудар Татьяна Евге
+ ньевна\nПара 2 · 10:10–11:40\nPARAbot · расписание
+  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfeaf88b0f1cf32-20261118-3-0-0@parabot
+DTSTAMP:20261108T212500Z
+DTSTART:20261118T094000Z
+DTEND:20261118T111000Z
+SUMMARY:Иностранный язык · практика
+LOCATION:418/4
+DESCRIPTION:Преподаватель: Данилова Екатерина
+  Андреевна\nПара 3 · 12:40–14:10\nPARAbot · распис
+ ание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfeaf88b0f1cf32-20261119-2-0-0@parabot
+DTSTAMP:20261108T212500Z
+DTSTART:20261119T071000Z
+DTEND:20261119T084000Z
+SUMMARY:Возрастная анатомия\, физиология и г
+ игиена · практика
+LOCATION:415-416/8
+DESCRIPTION:Преподаватель: Репина Екатерина Н
+ иколаевна\nПара 2 · 10:10–11:40\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfeaf88b0f1cf32-20261119-3-0-0@parabot
+DTSTAMP:20261108T212500Z
+DTSTART:20261119T094000Z
+DTEND:20261119T111000Z
+SUMMARY:История Древнего мира · практика
+LOCATION:418/4
+DESCRIPTION:Преподаватель: Павлов Андрей Альб
+ ертович\nПара 3 · 12:40–14:10\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfeaf88b0f1cf32-20261120-4-0-0@parabot
+DTSTAMP:20261108T212500Z
+DTSTART:20261120T112000Z
+DTEND:20261120T125000Z
+SUMMARY:Физическая культура и спорт · практи
+ ка
+LOCATION:210/8
+DESCRIPTION:Преподаватель: Собянин Александр 
+ Алексеевич\nПара 4 · 14:20–15:50\nPARAbot · распис
+ ание СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:8dfeaf88b0f1cf32-20261120-5-0-0@parabot
+DTSTAMP:20261108T212500Z
+DTSTART:20261120T130000Z
+DTEND:20261120T143000Z
+SUMMARY:История правовых и политических уче
+ ний · практика
+LOCATION:214/8
 DESCRIPTION:Преподаватель: Редькин Михаил Оле
  гович\nПара 5 · 16:00–17:30\nPARAbot · расписание 
  СыктГУ
