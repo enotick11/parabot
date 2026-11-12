@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PARAbot//Raspisanie SyktGU//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PARAbot · 221п-ГБо
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261109-2-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261109T071000Z
+DTEND:20261109T084000Z
+SUMMARY:География почв с основами почвоведе
+ ния · лекция
+LOCATION:110/3
+DESCRIPTION:Преподаватель: Лысова Валентина Ф
+ едоровна\nПара 2 · 10:10–11:40\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261109-3-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261109T094000Z
+DTEND:20261109T111000Z
+SUMMARY:География почв с основами почвоведе
+ ния · лекция
+LOCATION:110/3
+DESCRIPTION:Преподаватель: Лысова Валентина Ф
+ едоровна\nПара 3 · 12:40–14:10\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261109-4-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261109T112000Z
+DTEND:20261109T125000Z
+SUMMARY:География почв с основами почвоведе
+ ния · лабораторная
+LOCATION:110/3
+DESCRIPTION:Преподаватель: Лысова Валентина Ф
+ едоровна\nПара 4 · 14:20–15:50\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261110-1-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261110T053000Z
+DTEND:20261110T070000Z
+SUMMARY:Педагогика · лекция
+LOCATION:412/1
+DESCRIPTION:Преподаватель: Есева Ольга Василь
+ евна\nПара 1 · 08:30–10:00\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261110-2-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261110T071000Z
+DTEND:20261110T084000Z
+SUMMARY:История Республики Коми · лекция
+LOCATION:411/1
+DESCRIPTION:Преподаватель: Рочева Ирина Влади
+ мировна\nПара 2 · 10:10–11:40\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261110-3-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261110T094000Z
+DTEND:20261110T111000Z
+SUMMARY:Элективные дисциплины (модули) по фи
+ зической культуре и спорту · практика
+LOCATION:Центр ФК
+DESCRIPTION:Пара 3 · 12:40–14:10\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261111-2-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261111T071000Z
+DTEND:20261111T084000Z
+SUMMARY:Систематика растений · лекция
+LOCATION:337/3
+DESCRIPTION:Преподаватель: Чалышева Любовь Ва
+ сильевна\nПара 2 · 10:10–11:40\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261111-3-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261111T094000Z
+DTEND:20261111T111000Z
+SUMMARY:Систематика растений · лабораторная
+LOCATION:337/3
+DESCRIPTION:Преподаватель: Чалышева Любовь Ва
+ сильевна\nПара 3 · 12:40–14:10\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261112-1-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261112T053000Z
+DTEND:20261112T070000Z
+SUMMARY:Финансово-экономический практикум ·
+  лекция
+LOCATION:135-136/8
+DESCRIPTION:Преподаватель: Клепиков Николай В
+ асильевич\nПара 1 · 08:30–10:00\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261112-2-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261112T071000Z
+DTEND:20261112T084000Z
+SUMMARY:Психология · лекция
+LOCATION:422/8
+DESCRIPTION:Преподаватель: Смышляева Олеся Ми
+ хайловна\nПара 2 · 10:10–11:40\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261112-3-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261112T094000Z
+DTEND:20261112T111000Z
+SUMMARY:Педагогика · практика
+LOCATION:225/1
+DESCRIPTION:Преподаватель: Есева Ольга Василь
+ евна\nПара 3 · 12:40–14:10\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261113-1-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261113T053000Z
+DTEND:20261113T070000Z
+SUMMARY:Общее землеведение · практика
+LOCATION:310/3
+DESCRIPTION:Преподаватель: Голованов Роман Ив
+ анович\nПара 1 · 08:30–10:00\nPARAbot · расписание
+  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261113-2-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261113T071000Z
+DTEND:20261113T084000Z
+SUMMARY:Общее землеведение · практика
+LOCATION:310/3
+DESCRIPTION:Преподаватель: Голованов Роман Ив
+ анович\nПара 2 · 10:10–11:40\nPARAbot · расписание
+  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261113-3-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261113T094000Z
+DTEND:20261113T111000Z
+SUMMARY:Педагогика · практика
+LOCATION:225/1
+DESCRIPTION:Преподаватель: Есева Ольга Василь
+ евна\nПара 3 · 12:40–14:10\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261114-1-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261114T053000Z
+DTEND:20261114T070000Z
+SUMMARY:Психология · практика
+LOCATION:141/8
+DESCRIPTION:Преподаватель: Чеботарева Наталья
+  Алимовна\nПара 1 · 08:30–10:00\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261114-2-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261114T071000Z
+DTEND:20261114T084000Z
+SUMMARY:Психология · практика
+LOCATION:141/8
+DESCRIPTION:Преподаватель: Чеботарева Наталья
+  Алимовна\nПара 2 · 10:10–11:40\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261116-1-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261116T053000Z
+DTEND:20261116T070000Z
+SUMMARY:Основы гистологии и эмбриологии · ле
+ кция
+LOCATION:307/3
+DESCRIPTION:Преподаватель: Акулова Любовь Ива
+ новна\nПара 1 · 08:30–10:00\nPARAbot · расписание 
+ СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261116-2-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261116T071000Z
+DTEND:20261116T084000Z
+SUMMARY:Зоология позвоночных · лекция
+LOCATION:307/3
+DESCRIPTION:Преподаватель: Акулова Любовь Ива
+ новна\nПара 2 · 10:10–11:40\nPARAbot · расписание 
+ СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261116-3-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261116T094000Z
+DTEND:20261116T111000Z
+SUMMARY:География почв с основами почвоведе
+ ния · лекция
+LOCATION:110/3
+DESCRIPTION:Преподаватель: Лысова Валентина Ф
+ едоровна\nПара 3 · 12:40–14:10\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261116-4-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261116T112000Z
+DTEND:20261116T125000Z
+SUMMARY:География почв с основами почвоведе
+ ния · лабораторная
+LOCATION:110/3
+DESCRIPTION:Преподаватель: Лысова Валентина Ф
+ едоровна\nПара 4 · 14:20–15:50\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261117-1-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261117T053000Z
+DTEND:20261117T070000Z
+SUMMARY:Финансово-экономический практикум ·
+  практика
+LOCATION:225/1
+DESCRIPTION:Преподаватель: Клепиков Николай В
+ асильевич\nПара 1 · 08:30–10:00\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261117-2-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261117T071000Z
+DTEND:20261117T084000Z
+SUMMARY:История Республики Коми · практика
+LOCATION:239/1
+DESCRIPTION:Преподаватель: Попов Назар Алекса
+ ндрович\nПара 2 · 10:10–11:40\nPARAbot · расписани
+ е СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261117-3-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261117T094000Z
+DTEND:20261117T111000Z
+SUMMARY:Элективные дисциплины (модули) по фи
+ зической культуре и спорту · практика
+LOCATION:Центр ФК
+DESCRIPTION:Пара 3 · 12:40–14:10\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261118-1-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261118T053000Z
+DTEND:20261118T070000Z
+SUMMARY:Зоология позвоночных · лабораторная
+LOCATION:307/3
+DESCRIPTION:Преподаватель: Акулова Любовь Ива
+ новна\nПара 1 · 08:30–10:00\nPARAbot · расписание 
+ СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261118-2-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261118T071000Z
+DTEND:20261118T084000Z
+SUMMARY:Зоология позвоночных · лекция
+LOCATION:307/3
+DESCRIPTION:Преподаватель: Акулова Любовь Ива
+ новна\nПара 2 · 10:10–11:40\nPARAbot · расписание 
+ СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261118-3-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261118T094000Z
+DTEND:20261118T111000Z
+SUMMARY:Систематика растений · лабораторная
+LOCATION:337/3
+DESCRIPTION:Преподаватель: Чалышева Любовь Ва
+ сильевна\nПара 3 · 12:40–14:10\nPARAbot · расписан
+ ие СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261119-3-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261119T094000Z
+DTEND:20261119T111000Z
+SUMMARY:Педагогика · практика
+LOCATION:225/1
+DESCRIPTION:Преподаватель: Есева Ольга Василь
+ евна\nПара 3 · 12:40–14:10\nPARAbot · расписание С
+ ыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261120-1-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261120T053000Z
+DTEND:20261120T070000Z
+SUMMARY:Общее землеведение · лекция
+LOCATION:310/3
+DESCRIPTION:Преподаватель: Голованов Роман Ив
+ анович\nПара 1 · 08:30–10:00\nPARAbot · расписание
+  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261120-2-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261120T071000Z
+DTEND:20261120T084000Z
+SUMMARY:Общее землеведение · практика
+LOCATION:310/3
+DESCRIPTION:Преподаватель: Голованов Роман Ив
+ анович\nПара 2 · 10:10–11:40\nPARAbot · расписание
+  СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261121-1-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261121T053000Z
+DTEND:20261121T070000Z
+SUMMARY:Психология · практика
+LOCATION:135-136/8
+DESCRIPTION:Преподаватель: Чеботарева Наталья
+  Алимовна\nПара 1 · 08:30–10:00\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+BEGIN:VEVENT
+UID:42f36c889193ebdb-20261121-2-0-0@parabot
+DTSTAMP:20261112T012600Z
+DTSTART:20261121T071000Z
+DTEND:20261121T084000Z
+SUMMARY:Психология · практика
+LOCATION:135-136/8
+DESCRIPTION:Преподаватель: Чеботарева Наталья
+  Алимовна\nПара 2 · 10:10–11:40\nPARAbot · расписа
+ ние СыктГУ
+END:VEVENT
+END:VCALENDAR
